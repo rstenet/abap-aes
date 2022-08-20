@@ -2,7 +2,7 @@ CLASS ltc_aes_tests  DEFINITION FINAL FOR TESTING
                      DURATION SHORT
                      RISK LEVEL HARMLESS.
 
-  PUBLIC SECTION.
+  PUBLIC SECTION. 
 
   PRIVATE SECTION.
 
